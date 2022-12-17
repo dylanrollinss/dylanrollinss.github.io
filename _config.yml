@@ -2,14 +2,11 @@ title: Dylan Rollins
 logo: /assets/img/logo.png
 
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  I am a budding, intellecutally-driven third-year undergraduate statistics student who works with Python, R, and C++. I am currently eighteen and my goal is to graduate with a M.Sc Statistics before 20.
+  I am an intellecutally-driven third-year undergraduate statistics student who utilizes Python, R, and C++ to solve relevant, real-world problems.
   <br><br>
-  Second description 
-  Some of my interests include: machine learning, classification algorithms, high-dimensional data analysis, and bayesian classification.
+  Some of my interests include: machine learning, classification algorithms, high-dimensional data analysis, and bayesian classification. My background in computer science allows me to 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-  In my free time, I take digital and film <a href="https://www.linkedin.com/in/example/">photos</a>.
+  In my free time, I enjoy taking digital and film **<a href="https://www.linkedin.com/in/example/">photos</a>**.
   
   
 show_downloads: true
