@@ -1,10 +1,12 @@
 title: Dylan Rollins
 logo: /assets/img/logo.png
-description: >
-I am a budding, intellecutally-driven third-year bump undergraduate statistics student who works with Python, R, and C++.
-<br><br>
-hmm work?
-<br><br>
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  First description 
+  <br><br>
+  Second description 
+  <br><br>
+  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
